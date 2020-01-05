@@ -63,9 +63,8 @@ Asset下设置Source文件夹（源代码文件夹）、Content文件夹（引�
 ![008](images/asset_name_08.png)
 
 ### 5. 资源分类文件夹一般有但不是必须全部都有，有一下几个种类：
- | 
---------- | ---------
 Blueprint | 蓝图文件夹
+--------- | ---------
 Mesh | 模型文件夹
 Material | 材质文件夹
 Texture | 图片文件夹
